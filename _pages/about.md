@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am **Chenyuan Yang** (杨晨源), a senior undergraduate from the elite program in the Department of Computer Science & Technology at Nanjing Univesity. I am an incoming CS PhD student at UIUC this fall, advised by Prof. Lingming Zhang.
+I am **Chenyuan Yang** (杨晨源), a senior undergraduate from the elite program in the Department of Computer Science & Technology at Nanjing University. I am an incoming CS PhD student at UIUC this fall, advised by Prof. Lingming Zhang.
 
 My research interest lies in the area of software engineering, especially in software testing. I have found 30+ bugs for [VSCode-Vim](https://github.com/VSCodeVim/Vim), 80+ bugs for [PyTorch](https://github.com/pytorch/pytorch) and one very interesting bug for [NumPy](https://github.com/numpy/numpy).
