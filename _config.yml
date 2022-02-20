@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Chenyuan Yang"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   bio              : "A senior undergrad at Nanjing University"
   location         : "China"
   employer         :
   pubmed           : ""
   googlescholar    : ""
-  email            :
+  email            : "cy1yang@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
