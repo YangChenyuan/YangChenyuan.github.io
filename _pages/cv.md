@@ -9,24 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. Nanjing University, 2018 - 2022
+## Education
 
-Work experience
-======
+* B.S. Nanjing University, 2018 - 2022
+* PhD student UIUC, 2022
+
+  
+## Publications
+  <ul>{% for post in site.publications %}
+    {% include archive-paper.html %}
+  {% endfor %}</ul>
+  
+## Work experience
 * Summer 2021 - Present: Research Intern
   * UIUC
   * Supervisor: Professor Lingming Zhang
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->

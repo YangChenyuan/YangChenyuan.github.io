@@ -21,12 +21,12 @@
 	</b><br>
 	{{ post.excerpt }}<br>
 	<i>{{ post.venue }}</i><br>
-	<i>{{ post.short }}</i>, {{ post.date | default: "2022-01-01" | date: "%M %Y" }}. 
+	(<i>{{ post.short }}</i>), {{ post.date }}. 
 
     {% if post.paperurl %}
       [<a href=" {{ post.paperurl }} "><u>paper</u></a>]
     {% endif %}
-    {% if post.codelink %}
+    {% if post.codeurl %}
       [<a href=" {{ post.codeurl }} "><u>code</u></a>]
     {% endif %}
 	</li>
