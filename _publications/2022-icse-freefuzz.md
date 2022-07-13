@@ -4,7 +4,9 @@ collection: publications
 permalink: /publication/2022-icse-freefuzz
 excerpt: 'Anjiang Wei, Yinlin Deng, <b>Chenyuan Yang</b>, Lingming Zhang'
 date: 2022-05-01
-venue: '44th International Conference on Software Engineering (ICSE’22)'
+venue: '44th International Conference on Software Engineering'
 paperurl: 'https://arxiv.org/abs/2201.06589'
+short: 'ICSE 2022'
+codeurl: 'https://github.com/ise-uiuc/FreeFuzz'
 # citation: "Anjiang Wei, Yinlin Deng, <b>Chenyuan Yang</b>, Lingming Zhang. ICSE'22"
 ---
