@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-I am **Chenyuan Yang** (杨晨源), an incoming CS PhD student at [UIUC](https://illinois.edu/) this fall, advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/).
+I am **Chenyuan Yang** (杨晨源), a PhD student at [UIUC](https://illinois.edu/) advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/) since 2022 Fall.
 
 I received my B.S. degree from the elite program in the Department of Computer Science & Technology at Nanjing University, advised by Prof. [Yanyan Jiang](https://cs.nju.edu.cn/ics/people/yanyanjiang/index.html). 
 
