@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chenyuan Yang"
 title_separator          : "-"
 name                     : &name "Chenyuan Yang"
-description              : &description "Undergrad at NJU"
+description              : &description "PhD student at UIUC"
 url                      : https://yangchenyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yangchenyuan.github.io"
@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Chenyuan Yang"
   avatar           : "bio-photo.jpg"
-  bio              : "A senior undergrad at Nanjing University"
-  location         : "China"
+  bio              : "PhD student at UIUC"
+  location         : "U.S."
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "cy1yang@outlook.com"
+  email            : "cy54@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/cy1yang"
   vine             :
   weibo            :
   xing             :
