@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "cy1yang@outlook.com"
   email            : "cy54@illinois.edu"
+  email1           : "cy1yang@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/cy1yang"
+  twitter          : "cy1yang"
   vine             :
   weibo            :
   xing             :
