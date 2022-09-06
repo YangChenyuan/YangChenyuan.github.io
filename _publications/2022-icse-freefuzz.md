@@ -5,7 +5,7 @@ excerpt: 'Anjiang Wei, Yinlin Deng, <b>Chenyuan Yang</b>, Lingming Zhang'
 time: 'May 2022'
 date: 2022-05-01
 venue: '44th International Conference on Software Engineering'
-paperurl: 'https://arxiv.org/abs/2201.06589'
+paperurl: '/files/ICSE22-FreeFuzz.pdf'
 short: 'ICSE 2022'
 codeurl: 'https://github.com/ise-uiuc/FreeFuzz'
 # citation: "Anjiang Wei, Yinlin Deng, <b>Chenyuan Yang</b>, Lingming Zhang. ICSE'22"
