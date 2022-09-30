@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-paper.html %}
 {% endfor %}
 
-<i>"*" indicates equal contributions.</i>
+<i>* denotes joint first authors</i>

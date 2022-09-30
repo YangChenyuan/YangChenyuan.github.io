@@ -28,3 +28,15 @@ Besides deep learning libraries, I also reported more than **30** bugs for other
 {% for post in site.publications reversed %}
   {% include archive-paper.html %}
 {% endfor %}
+
+<i>* denotes  joint first authors</i>
+
+## Talks
+
+Fuzzing Deep-Learning Libraries via Automated Relational API Inference
+
+  - Software Engineering Retreat, University of Illinois at Urbana-Champaign <p align="right">Sept. 2022</p>
+
+Free Lunch for Testing: Fuzzing Deep-Learning Libraries from Open Source
+
+  - [iSE symposium](http://www.iselab.cn/ises2022/), Nanjing University <p align="right">May 2022</p>
