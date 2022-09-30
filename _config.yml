@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Chenyuan Yang's Homepage"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Chenyuan Yang"
 description              : &description "PhD student at UIUC"
 url                      : https://yangchenyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
