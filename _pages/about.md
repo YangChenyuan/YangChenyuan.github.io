@@ -35,8 +35,9 @@ Besides deep learning libraries, I also reported more than **30** bugs for other
 
 Fuzzing Deep-Learning Libraries via Automated Relational API Inference
 
-  - Software Engineering Retreat, University of Illinois at Urbana-Champaign <p align="right">Sept. 2022</p>
+  - Software Engineering Retreat, University of Illinois at Urbana-Champaign 
+  <div style="text-align: right"> Sept. 2022 </div>
 
 Free Lunch for Testing: Fuzzing Deep-Learning Libraries from Open Source
 
-  - [iSE symposium](http://www.iselab.cn/ises2022/), Nanjing University <p align="right">May 2022</p>
+  - [iSE symposium](http://www.iselab.cn/ises2022/), Nanjing University <div style="text-align: right"> May 2022 </div>
