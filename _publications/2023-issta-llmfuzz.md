@@ -1,5 +1,5 @@
 ---
-title: "Fuzzing Deep-Learning Libraries via Large Language Models"
+title: "Large Language Models are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models"
 collection: publications
 excerpt: 'Yinlin Deng, Chunqiu Steven Xia, Haoran Peng, <u><b>Chenyuan Yang</b></u>, Lingming Zhang'
 time: 'July 2023'
