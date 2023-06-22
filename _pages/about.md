@@ -33,7 +33,7 @@ Besides deep learning libraries, I also reported more than **30** bugs for other
 
 ## Internships
 
-**Google Labs**, Summmer 2023 (Incoming)
+**Google Labs**, [Project Starline](https://blog.google/technology/research/project-starline-prototype/) <i style="float:right;text-align:right;">Summmer 2023</i>
 
 ## Talks
 
