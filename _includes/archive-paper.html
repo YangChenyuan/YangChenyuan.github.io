@@ -1,35 +1,37 @@
 {% include base_path %}
 
 {% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
-  {% assign teaser = site.teaser %}
+{% assign teaser = site.teaser %}
 {% endif %}
 
 {% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
-  {% assign title = post.title %}
+{% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: " list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-	<li>
-    <b class="archive__item-title" itemprop="headline">
+    <li>
+      <b class="archive__item-title" itemprop="headline">
         {{ title }}
-	</b><br>
-	{{ post.excerpt }}<br>
-	<i>{{ post.venue }}</i><br>
-	(<i>{{ post.short }}</i>), {{ post.time }}. 
+      </b><br>
+      {{ post.excerpt }}<br>
+      {% if post.venue %}
+      <i>{{ post.venue }}</i><br>
+      {% endif %}
+      (<i>{{ post.short }}</i>), {{ post.time }}.
 
-    {% if post.paperurl %}
+      {% if post.paperurl %}
       [<a href=" {{ post.paperurl }} "><u>paper</u></a>]
-    {% endif %}
-    {% if post.codeurl %}
+      {% endif %}
+      {% if post.codeurl %}
       [<a href=" {{ post.codeurl }} "><u>code</u></a>]
-    {% endif %}
-	</li>
+      {% endif %}
+    </li>
 
   </article>
 </div>
