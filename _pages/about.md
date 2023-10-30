@@ -12,7 +12,7 @@ redirect_from:
 
 I am **Chenyuan Yang** (杨晨源), a PhD student at [UIUC](https://illinois.edu/) advised by Prof. [Lingming Zhang](http://lingming.cs.illinois.edu/) since 2022 Fall.
 
-I received my B.S. degree with honors from the elite program in the Department of Computer Science & Technology at [Nanjing University](https://www.nju.edu.cn/EN/main.htm), advised by Prof. [Yanyan Jiang](https://cs.nju.edu.cn/ics/people/yanyanjiang/index.html). 
+I received my B.S. degree with honors from the elite program in the Department of Computer Science & Technology at [Nanjing University](https://www.nju.edu.cn/EN/main.htm), advised by Prof. [Yanyan Jiang](https://ics.nju.edu.cn/~jyy/). 
 
 My research aims to improve the *reliability* of software systems.
 I am interested in leveraging testing, analysis, and verification techniques to make software systems more *reliable* and *robust*, especially for machine learning systems.
