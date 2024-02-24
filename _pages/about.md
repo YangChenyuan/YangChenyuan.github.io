@@ -34,6 +34,7 @@ Besides deep learning systems and the Linux kernel, I also reported more than **
 ## Internships
 
 **Microsoft Research**, [Systems Research Group](https://www.microsoft.com/en-us/research/group/systems-research-group-redmond/overview/) <i style="float:right;text-align:right;">Summmer 2024 (TBD)</i>
+
 **Google Labs**, [Project Starline](https://blog.google/technology/research/project-starline-prototype/) <i style="float:right;text-align:right;">Summmer 2023</i>
 
 ## Talks
