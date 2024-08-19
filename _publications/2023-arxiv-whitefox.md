@@ -6,5 +6,6 @@ time: 'Oct 2024'
 date: 2024-10-24
 paperurl: 'https://arxiv.org/abs/2310.15991'
 short: 'OOPSLA 2024'
+venue: 'Object-Oriented Programming, Systems, Languages, and Applications 2024 (in PACM PL)'
 codeurl: 'https://github.com/ise-uiuc/WhiteFox'
 ---
