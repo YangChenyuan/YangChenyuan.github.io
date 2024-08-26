@@ -1,5 +1,5 @@
 ---
-title: "White-box Compiler Fuzzing Empowered by Large Language Models"
+title: "WhiteFox: White-box Compiler Fuzzing Empowered by Large Language Models"
 collection: publications
 excerpt: '<u><b>Chenyuan Yang</b></u>, Yinlin Deng, Runyu Lu, Jiayi Yao, Jiawei Liu, Reyhaneh Jabbarvand, Lingming Zhang'
 time: 'Oct 2024'
