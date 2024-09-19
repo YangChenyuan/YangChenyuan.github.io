@@ -27,6 +27,9 @@
       {% endif %}
       (<i>{{ post.short }}</i>), {{ post.time }}.
 
+      {% if post.weburl %}
+      [<a href=" {{ post.weburl }} "><u>website</u></a>]
+      {% endif %}
       {% if post.paperurl %}
       [<a href=" {{ post.paperurl }} "><u>paper</u></a>]
       {% endif %}
