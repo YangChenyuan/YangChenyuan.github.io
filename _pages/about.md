@@ -14,11 +14,9 @@ I am **Chenyuan Yang** (杨晨源), a PhD student at [UIUC](https://illinois.edu
 
 I received my B.S. degree with honors from the elite program in the Department of Computer Science & Technology at [Nanjing University](https://www.nju.edu.cn/EN/main.htm), advised by Prof. [Yanyan Jiang](https://ics.nju.edu.cn/~jyy/). 
 
-My research aims to improve the *reliability* of software systems.
-I am interested in leveraging testing, analysis, and verification techniques to make software systems more *reliable* and *robust*, especially for machine learning systems.
-Besides, I tremendously enjoy contributing to the open-source community.
+My research focuses on enhancing the *reliability* of software systems, such as machine learning models, compilers, and operating system kernels. To achieve this, I employ a combination of *testing*, *analysis*, and *verification* techniques, with a particular emphasis on leveraging the power of *large language models* (LLMs).
 
-Currently, I focus on testing deep learning compilers and the Linux kernel. Until now, my work has totally detected **353** previously unknown bugs for widely-used deep learning systems, including [PyTorch](https://pytorch.org), [TensorFlow](https://www.tensorflow.org), [JAX](https://jax.readthedocs.io) and [OneFlow](https://github.com/Oneflow-Inc/oneflow), and **8 CVEs** for the Linux kernel.
+To date, my work has uncovered over **400** previously unknown bugs in widely-used machine learning systems, including [PyTorch](https://pytorch.org), [TensorFlow](https://www.tensorflow.org), [JAX](https://jax.readthedocs.io), as well as 9 CVEs for the Linux kernel.
 
 Besides deep learning systems and the Linux kernel, I also reported more than **30** bugs for other open-source projects, such as [NumPy](https://numpy.org), [Moby](https://mobyproject.org), and [VSCode-Vim](https://github.com/VSCodeVim/Vim).
 
