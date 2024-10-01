@@ -14,7 +14,7 @@ I am **Chenyuan Yang** (杨晨源), a PhD student at [UIUC](https://illinois.edu
 
 I received my B.S. degree with honors from the elite program in the Department of Computer Science & Technology at [Nanjing University](https://www.nju.edu.cn/EN/main.htm), advised by Prof. [Yanyan Jiang](https://ics.nju.edu.cn/~jyy/). 
 
-My research focuses on enhancing the *reliability* of software systems, such as machine learning models, compilers, and operating system kernels. To achieve this, I employ a combination of *testing*, *analysis*, and *verification* techniques, with a particular emphasis on leveraging the power of *large language models* (LLMs).
+My research focuses on enhancing the *reliability* of software systems, such as machine learning systems, compilers, and OS kernels. To achieve this, I employ a combination of *testing*, *analysis*, and *verification* techniques, with a particular emphasis on leveraging the power of *large language models* (LLMs).
 
 To date, my work has uncovered over **400** previously unknown bugs in widely-used machine learning systems, including [PyTorch](https://pytorch.org), [TensorFlow](https://www.tensorflow.org), [JAX](https://jax.readthedocs.io), as well as 9 CVEs for the Linux kernel.
 
