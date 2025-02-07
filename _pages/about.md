@@ -21,9 +21,11 @@ To date, my work has uncovered over **400** previously unknown bugs in widely-us
 Besides deep learning systems and the Linux kernel, I also reported more than **30** bugs for other open-source projects, such as [NumPy](https://numpy.org), [Moby](https://mobyproject.org), and [VSCode-Vim](https://github.com/VSCodeVim/Vim).
 
 
-## Publications
+## Selected Publications
 
-{% for post in site.publications reversed %}
+For a full list of publications, please refer to [Publications](/publications/).
+
+{% for post in site.select_pub reversed %}
   {% include archive-paper.html %}
 {% endfor %}
 
