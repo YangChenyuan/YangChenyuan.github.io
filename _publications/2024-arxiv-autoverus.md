@@ -7,4 +7,5 @@ date: 2101-12-31
 weburl: 'https://sites.google.com/view/autoverus'
 paperurl: 'https://sites.google.com/view/autoverus/home/autoverus-preprint'
 short: 'Preprint'
+selected: true
 ---

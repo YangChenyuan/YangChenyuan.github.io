@@ -25,8 +25,10 @@ Besides deep learning systems and the Linux kernel, I also reported more than **
 
 For a full list of publications, please refer to [Publications](/publications/).
 
-{% for post in site.select_pub reversed %}
-  {% include archive-paper.html %}
+{% for post in site.publications reversed %}
+  {% if post.selected %}
+    {% include archive-paper.html %}
+  {% endif %}
 {% endfor %}
 
 <i>* denotes  joint first authors</i>

@@ -7,6 +7,5 @@ date: 2023-07-01
 venue: '32nd International Symposium on Software Testing and Analysis'
 paperurl: 'https://arxiv.org/pdf/2212.14834.pdf'
 short: 'ISSTA 2023'
-# codeurl: 'https://github.com/ise-uiuc/FreeFuzz'
-# citation: "Anjiang Wei, Yinlin Deng, <b>Chenyuan Yang</b>, Lingming Zhang. ICSE'22"
+selected: true
 ---

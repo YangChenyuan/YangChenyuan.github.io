@@ -8,4 +8,5 @@ paperurl: '/files/OOPSLA24-WhiteFox.pdf'
 short: 'OOPSLA 2024'
 venue: 'Object-Oriented Programming, Systems, Languages, and Applications 2024 (in PACM PL)'
 codeurl: 'https://github.com/ise-uiuc/WhiteFox'
+selected: true
 ---

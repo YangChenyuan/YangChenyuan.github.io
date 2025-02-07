@@ -8,4 +8,5 @@ venue: '30th ACM International Conference on Architectural Support for Programmi
 paperurl: 'https://arxiv.org/abs/2401.00563'
 codeurl: 'https://github.com/ise-uiuc/KernelGPT'
 short: 'ASPLOS 2025'
+selected: true
 ---
