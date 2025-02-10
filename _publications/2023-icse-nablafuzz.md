@@ -8,6 +8,6 @@ venue: '45th International Conference on Software Engineering'
 paperurl: '/files/ICSE23-NablaFuzz.pdf'
 short: 'ICSE 2023'
 codeurl: 'https://github.com/ise-uiuc/NablaFuzz'
+slideurl: '/files/NablaFuzz-icse-pre.pdf'
 selected: true
-# citation: "Anjiang Wei, Yinlin Deng, <b>Chenyuan Yang</b>, Lingming Zhang. ICSE'22"
 ---
