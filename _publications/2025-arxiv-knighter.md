@@ -1,5 +1,5 @@
 ---
-title: "[Preprint] KNighter: Transforming Static Analysis with LLM-Synthesized Checkers
+title: "[Preprint] KNighter: Transforming Static Analysis with LLM-Synthesized Checkers"
 collection: publications
 excerpt: '<u><b>Chenyuan Yang</b></u>, Zijie Zhao, Zichen Xie, Haoyu Li, Lingming Zhang'
 time: 'Mar 2025'
