@@ -18,10 +18,10 @@ My research covers the interaction of software systems and machine learning, wit
 To this end, I leverage and optimize LLMs with testing, reasoning, and verification techniques.
 To date, my research has detected **630+ critical** bugs for *ML systems, C/C++ compilers, and operating systems*, including **25 CVEs**.
 
-- **System Reliability for ML**. Synthesizing diverse & high-quality tensor programs across inference, training, and optimization components in ML systems, along with test oracles.
+- **System Reliability for ML**. Synthesizing diverse & high-quality tensor programs across *inference* ([FreeFuzz](https://github.com/ise-uiuc/FreeFuzz), [DeepREL](https://github.com/ise-uiuc/DeepREL)), *training* ([NablaFuzz](https://github.com/ise-uiuc/NablaFuzz)), and *optimization* components ([WhiteFox](https://github.com/ise-uiuc/WhiteFox)) in ML systems, along with test oracles.
 - **ML for System Reliability**.
-  - **LLM for Testing**. Designing LLM-driven workflows to synthesize tests, test generators, and static analyzers for large-scale software systems. Evaluating LLMs’ code reasoning via test generation.
-  - **LLM for Verification**. Training and evaluating LLMs to generate verification proofs for code.
+  - **LLM for Testing**. Designing LLM-driven workflows to synthesize *tests* ([TitanFuzz](https://github.com/ise-uiuc/TitanFuzz), [WhiteFox](https://github.com/ise-uiuc/WhiteFox)), *test generators* ([KernelGPT](https://github.com/ise-uiuc/KernelGPT)), and *static analyzers* ([KNighter](https://github.com/ise-uiuc/KNighter)) for large-scale software systems. Evaluating LLMs’ code reasoning via test generation ([TestEval](https://github.com/LLM4SoftwareTesting/TestEval)).
+  - **LLM for Verification**. Training and evaluating LLMs to generate verification proofs for code ([AutoVerus](https://github.com/microsoft/verus-proof-synthesis)).
 
 ## Selected Publications
 
