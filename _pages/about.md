@@ -14,12 +14,14 @@ I am **Chenyuan Yang** (杨晨源), a PhD student at [UIUC](https://illinois.edu
 
 I received my B.S. degree with honors from the elite program in the Department of Computer Science & Technology at [Nanjing University](https://www.nju.edu.cn/EN/main.htm), advised by Prof. [Yanyan Jiang](https://ics.nju.edu.cn/~jyy/). 
 
-My research focuses on enhancing the *reliability* of software systems, such as machine learning systems, compilers, and OS kernels. To achieve this, I employ a combination of *testing*, *analysis*, and *verification* techniques, with a particular emphasis on leveraging the power of *large language models* (LLMs).
+My research covers the interaction of software systems and machine learning, with the goal of enhancing the reliability of large-scale systems.
+To this end, I leverage and optimize LLMs with testing, reasoning, and verification techniques.
+To date, my research has detected **630+ critical** bugs for *ML systems, C/C++ compilers, and operating systems*, including **25 CVEs**.
 
-To date, my work has uncovered over **400** previously unknown bugs in widely-used machine learning systems, including [PyTorch](https://pytorch.org), [TensorFlow](https://www.tensorflow.org), [JAX](https://jax.readthedocs.io), as well as 9 CVEs for the Linux kernel.
-
-Besides deep learning systems and the Linux kernel, I also reported more than **30** bugs for other open-source projects, such as [NumPy](https://numpy.org), [Moby](https://mobyproject.org), and [VSCode-Vim](https://github.com/VSCodeVim/Vim).
-
+- **System Reliability for ML**. Synthesizing diverse & high-quality tensor programs across inference, training, and optimization components in ML systems, along with test oracles.
+- **ML for System Reliability**.
+  - **LLM for Testing**. Designing LLM-driven workflows to synthesize tests, test generators, and static analyzers for large-scale software systems. Evaluating LLMs’ code reasoning via test generation.
+  - **LLM for Verification**. Training and evaluating LLMs to generate verification proofs for code.
 
 ## Selected Publications
 
@@ -38,13 +40,3 @@ For a full list of publications, please refer to [Publications](/publications/).
 **Microsoft Research**, [Systems Research Group](https://www.microsoft.com/en-us/research/group/systems-research-group-redmond/overview/) <i style="float:right;text-align:right;">Summmer 2024</i>
 
 **Google Labs**, [Project Starline](https://blog.google/technology/research/project-starline-prototype/) <i style="float:right;text-align:right;">Summmer 2023</i>
-
-## Talks
-
-Fuzzing Deep-Learning Libraries via Automated Relational API Inference
-
-  - Software Engineering Retreat, University of Illinois at Urbana-Champaign, Sept. 2022
-
-Free Lunch for Testing: Fuzzing Deep-Learning Libraries from Open Source
-
-  - [iSE symposium](http://www.iselab.cn/ises2022/), Nanjing University, May 2022
