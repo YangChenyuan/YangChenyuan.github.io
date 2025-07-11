@@ -2,10 +2,11 @@
 title: "[Preprint] KNighter: Transforming Static Analysis with LLM-Synthesized Checkers"
 collection: publications
 excerpt: '<u><b>Chenyuan Yang</b></u>, Zijie Zhao, Zichen Xie, Haoyu Li, Lingming Zhang'
-time: 'Mar 2025'
-date: 2102-12-31
+time: 'Oct 2025'
+date: 2025-10-13
 paperurl: '/files/Preprint-KNighter.pdf'
-short: 'Preprint'
+short: 'SOSP 2025'
+venue: 'The 31st Symposium on Operating Systems Principles'
 codeurl: 'https://github.com/ise-uiuc/KNighter'
 selected: true
 ---
