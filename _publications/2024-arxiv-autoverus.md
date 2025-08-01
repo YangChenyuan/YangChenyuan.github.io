@@ -5,7 +5,8 @@ excerpt: '<u><b>Chenyuan Yang</b></u>, Xuheng Li, Md Rakib Hossain Misu, Jianan 
 time: 'Sept 2024'
 date: 2101-12-31
 weburl: 'https://sites.google.com/view/autoverus'
-paperurl: 'https://sites.google.com/view/autoverus/home/autoverus-preprint'
+paperurl: 'https://arxiv.org/abs/2409.13082'
+codeurl: 'https://github.com/microsoft/verus-proof-synthesis'
 short: 'Preprint'
 selected: true
 ---
